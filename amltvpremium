@@ -1,0 +1,3308 @@
+[
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/250.png",
+    "id": "27",
+    "title": "MTV U",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/57018/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/249.png",
+    "id": "27",
+    "title": "MTV Music",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/282262/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/248.png",
+    "id": "27",
+    "title": "MTV Live USA",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/15452/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/247.png",
+    "id": "27",
+    "title": "MTV Live",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/9047/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/246.png",
+    "id": "27",
+    "title": "MTV Classic",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/290680/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/245.png",
+    "id": "27",
+    "title": "MTV 2",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/459/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/244.png",
+    "id": "27",
+    "title": "MTV",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2344/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/169020.png",
+    "id": "27",
+    "title": "Retro Music TV (GT)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/169020/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/18414.png",
+    "id": "27",
+    "title": "Retro Music TV (CZ)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/18414/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/80252.png",
+    "id": "27",
+    "title": "Music Box Russia (RU)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/80252/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/284189.png",
+    "id": "27",
+    "title": "1HD Music TV (RU)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/284189/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/4135.png",
+    "id": "27",
+    "title": "Balkanika Music TV (BG)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/4135/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/199644.png",
+    "id": "27",
+    "title": "Music Top (ARG)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/199644/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/278696.png",
+    "id": "27",
+    "title": "Music Box Brazil (BR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/278696/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/67550.png",
+    "id": "27",
+    "title": "Bravo Music (RS)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/67550/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/31785.png",
+    "id": "27",
+    "title": "Telehit Musica (MX)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/31785/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/1536.png",
+    "id": "27",
+    "title": "Afro Music Channel (PT)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/1536/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/193697.png",
+    "id": "27",
+    "title": "WebStar Music (AL)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/193697/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/297287.png",
+    "id": "27",
+    "title": "MetiTV Music (AL)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/297287/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/166503.png",
+    "id": "27",
+    "title": "Klan Music (AL)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/166503/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/4041.png",
+    "id": "27",
+    "title": "BBF Music TV (AL)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/4041/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/44994.png",
+    "id": "27",
+    "title": "ALB Music (AL)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/44994/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/192145.png",
+    "id": "27",
+    "title": "Public Music (IN)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/192145/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/264726.png",
+    "id": "27",
+    "title": "Only Music (IN)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/264726/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/297558.png",
+    "id": "27",
+    "title": "Gemini Music (IN)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/297558/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/1368.png",
+    "id": "27",
+    "title": "B4U Music (IN)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/1368/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/4734.png",
+    "id": "27",
+    "title": "Club MTV (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/4734/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/291132.png",
+    "id": "27",
+    "title": "360 Tune Box (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/291132/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/3486.png",
+    "id": "27",
+    "title": "MTV (DE)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/3486/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/358.png",
+    "id": "27",
+    "title": "Music Choice Hip Hop \u0026 R\u0026B",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/66075/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/348.png",
+    "id": "27",
+    "title": "California Music Channel",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/163079/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/265.png",
+    "id": "27",
+    "title": "NickMusic",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/12982/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/198.png",
+    "id": "26",
+    "title": "Discovery Family",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2300/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/5360.png",
+    "id": "26",
+    "title": "Family 7 (NL)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/5360/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/8895db31892b4ee24f754a572a0875f4.png",
+    "id": "26",
+    "title": "HBO Family (BR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/8839/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/3057.png",
+    "id": "26",
+    "title": "HBO Family (LA)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/3057/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/297298.png",
+    "id": "26",
+    "title": "OnePlay Family (AL)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/297298/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/2460.png",
+    "id": "26",
+    "title": "FILM1 Family (NL)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/2460/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/67603.png",
+    "id": "26",
+    "title": "Active Family (PL)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/67603/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/1763.png",
+    "id": "26",
+    "title": "beIN Movies Family (TR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/1763/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/225273.png",
+    "id": "26",
+    "title": "Persiana Family (IR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/225273/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/5491.png",
+    "id": "26",
+    "title": "AVA Family (IR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/5491/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/2815.png",
+    "id": "26",
+    "title": "Blue Sport 1 (CH)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/2815/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/251.png",
+    "id": "25",
+    "title": "NAT GEO Wild",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/6503/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/241.png",
+    "id": "25",
+    "title": "MoreMax",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/752/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/236.png",
+    "id": "25",
+    "title": "Local Now Family Flix",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/296889/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/233.png",
+    "id": "25",
+    "title": "INSP",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/30900/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/231.png",
+    "id": "25",
+    "title": "Hallmark Movies \u0026 Mysteries",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/3388/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/230.png",
+    "id": "25",
+    "title": "Hallmark Drama",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/3387/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/229.png",
+    "id": "25",
+    "title": "Hallmark Channel",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/759/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/224.png",
+    "id": "25",
+    "title": "FXX",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2330/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/223.png",
+    "id": "25",
+    "title": "FXM Retro",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/5840/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/222.png",
+    "id": "25",
+    "title": "FX Movie Channel",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/39873/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/192.png",
+    "id": "25",
+    "title": "Comet",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/6497/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/187.png",
+    "id": "25",
+    "title": "CMT",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2294/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/2451.png",
+    "id": "25",
+    "title": "Comedy Central (NL)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/2451/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/5319.png",
+    "id": "25",
+    "title": "BBC First (NL)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/5319/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/13991.png",
+    "id": "25",
+    "title": "BBC Entertainment (NL)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/13991/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/1810.png",
+    "id": "25",
+    "title": "TRT 4K (TR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/1810/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/635.png",
+    "id": "25",
+    "title": "TRT 2 (TR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/635/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/507.png",
+    "id": "25",
+    "title": "TRT 1 (TR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/507/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/298430.png",
+    "id": "25",
+    "title": "beIN Series 4 (TR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/298430/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/298428.png",
+    "id": "25",
+    "title": "beIN Series 3 (TR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/298428/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/298427.png",
+    "id": "25",
+    "title": "beIN Series 2 (TR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/298427/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/298429.png",
+    "id": "25",
+    "title": "beIN Series 1 (TR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/298429/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/298472.png",
+    "id": "25",
+    "title": "Cine Life (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/298472/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/2291.png",
+    "id": "25",
+    "title": "5 Star max (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/2291/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/197513.png",
+    "id": "25",
+    "title": "MR Bean (DE)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/197513/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/298803.png",
+    "id": "25",
+    "title": "Kino Highlights 5 (DE)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/298803/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/298802.png",
+    "id": "25",
+    "title": "Kino Highlights 4 (DE)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/298802/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/298801.png",
+    "id": "25",
+    "title": "Kino Highlights 3 (DE)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/298801/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/a2eaa02e6842d9f3df57b11a614a1d8c.png",
+    "id": "25",
+    "title": "Kino Highlights 2 (DE)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/298800/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/bf86ff010c2a45006d0cf4b732b3d2c0.png",
+    "id": "25",
+    "title": "Kino Highlights 1 (DE)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/298799/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/61a27081f4d44c7b9b1ba2d9b84432d6.png",
+    "id": "25",
+    "title": "KINO BOX 9 (DE)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/163407/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/328.png",
+    "id": "25",
+    "title": "Lifetime Movies",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/12992/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/bf3e0fcee0e801699c7c07caef4f1a5f.png",
+    "id": "25",
+    "title": "KINO BOX 8 (DE)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/168942/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/327.png",
+    "id": "25",
+    "title": "HDNet Movies",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/200162/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/283303.png",
+    "id": "25",
+    "title": "KINO BOX 7 (DE)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/283303/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/326.png",
+    "id": "25",
+    "title": "HBO Zone",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/6328/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/283302.png",
+    "id": "25",
+    "title": "KINO BOX 6 (DE)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/283302/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/325.png",
+    "id": "25",
+    "title": "HBO Signature",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/6305/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/283301.png",
+    "id": "25",
+    "title": "KINO BOX 5 (DE)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/283301/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/324.png",
+    "id": "25",
+    "title": "HBO Family",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/760/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/165487.png",
+    "id": "25",
+    "title": "FashionTV (BE)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/165487/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/323.png",
+    "id": "25",
+    "title": "HBO Comedy",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2335/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/239.png",
+    "id": "25",
+    "title": "A La Carte 9 (FR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/239/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/322.png",
+    "id": "25",
+    "title": "HBO 2",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/5844/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/238.png",
+    "id": "25",
+    "title": "A La Carte 8 (FR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/238/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/321.png",
+    "id": "25",
+    "title": "HBO",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2336/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/237.png",
+    "id": "25",
+    "title": "A La Carte 7 (FR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/237/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/236.png",
+    "id": "25",
+    "title": "A La Carte 6 (FR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/236/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/235.png",
+    "id": "25",
+    "title": "A La Carte 5 (FR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/235/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/318.png",
+    "id": "25",
+    "title": "Filmstream",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/281940/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/234.png",
+    "id": "25",
+    "title": "A La Carte 4 (FR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/234/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/233.png",
+    "id": "25",
+    "title": "A La Carte 3 (FR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/233/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/232.png",
+    "id": "25",
+    "title": "A La Carte 2 (FR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/232/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/231.png",
+    "id": "25",
+    "title": "A La Carte 1 (FR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/231/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/183.png",
+    "id": "25",
+    "title": "6ter (FR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/183/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/181.png",
+    "id": "25",
+    "title": "13eme Rue (FR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/181/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/291106.png",
+    "id": "25",
+    "title": "Cosmote Cinema 3 (GR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/291106/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/291105.png",
+    "id": "25",
+    "title": "Cosmote Cinema 2 (GR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/291105/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/310.png",
+    "id": "25",
+    "title": "Cozi TV",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/8392/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/291104.png",
+    "id": "25",
+    "title": "Cosmote Cinema 1 (GR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/291104/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/2248.png",
+    "id": "25",
+    "title": "HBO 2 (RO)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/2248/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/2225.png",
+    "id": "25",
+    "title": "HBO 3 (RO)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/2225/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/4224.png",
+    "id": "25",
+    "title": "Happy Channel (RO)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/4224/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/4223.png",
+    "id": "25",
+    "title": "Film Cafe (RO)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/4223/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/67029.png",
+    "id": "25",
+    "title": "FilmBox Extra (RO)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/67029/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/283221.png",
+    "id": "25",
+    "title": "BeoutQ Cinema (AR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/283221/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/283220.png",
+    "id": "25",
+    "title": "BeoutQ Arabia (AR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/283220/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/302.png",
+    "id": "25",
+    "title": "Showtime Women",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/12995/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/195903.png",
+    "id": "25",
+    "title": "BeoutQ Action (AR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/195903/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/301.png",
+    "id": "25",
+    "title": "Showtime Showcase",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/6306/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/297916.png",
+    "id": "25",
+    "title": "Apple Plus 8 (AR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/297916/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/300.png",
+    "id": "25",
+    "title": "Showtime Next",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/13008/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/299.png",
+    "id": "25",
+    "title": "Showtime Family Zone",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/16139/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/298.png",
+    "id": "25",
+    "title": "Showtime Extreme",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/12036/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/297.png",
+    "id": "25",
+    "title": "Showtime 2",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/78161/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/296.png",
+    "id": "25",
+    "title": "Showtime",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/765/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/289.png",
+    "id": "25",
+    "title": "TV Land",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2364/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/285.png",
+    "id": "25",
+    "title": "TeenNick",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/15058/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/284.png",
+    "id": "25",
+    "title": "SYFY",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2359/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/283.png",
+    "id": "25",
+    "title": "Starz Kids \u0026 Family",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/15052/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/282.png",
+    "id": "25",
+    "title": "Starz In Black",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/15056/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/281.png",
+    "id": "25",
+    "title": "Starz Encore",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/38500/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/280.png",
+    "id": "25",
+    "title": "Starz Edge",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2357/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/279.png",
+    "id": "25",
+    "title": "Starz Comedy",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/12040/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/278.png",
+    "id": "25",
+    "title": "Starz",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/12044/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/276.png",
+    "id": "25",
+    "title": "Sony Movies",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/5831/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/275.png",
+    "id": "25",
+    "title": "Smithsonian Channel",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/8585/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/264.png",
+    "id": "25",
+    "title": "nickelodeon",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/764/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/234.png",
+    "id": "24",
+    "title": "Inspiration TV",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/269161/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/202.png",
+    "id": "24",
+    "title": "Disney XD",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/6395/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/201.png",
+    "id": "24",
+    "title": "Disney Junior",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/8608/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/200.png",
+    "id": "24",
+    "title": "Disney Channel",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2303/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/191.png",
+    "id": "24",
+    "title": "Comedy Central",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/754/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/180.png",
+    "id": "24",
+    "title": "Boomerang",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2281/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/349.png",
+    "id": "24",
+    "title": "Cartoon Network",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2286/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/303.png",
+    "id": "24",
+    "title": "Baby TV",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/281177/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/290.png",
+    "id": "24",
+    "title": "Universal Kids",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/6399/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/266.png",
+    "id": "24",
+    "title": "Nicktoons",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2351/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/263.png",
+    "id": "24",
+    "title": "Nick Jr",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/14835/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/176.png",
+    "id": "23",
+    "title": "BET Soul",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/13006/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/175.png",
+    "id": "23",
+    "title": "BET Jams",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/30936/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/174.png",
+    "id": "23",
+    "title": "BET Her",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/15898/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/173.png",
+    "id": "23",
+    "title": "BET",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2278/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/193741.png",
+    "id": "22",
+    "title": "Arena Sport 1 (AL)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/193741/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/5347.png",
+    "id": "22",
+    "title": "Horse \u0026 Country TV (UK)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/5347/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/254.png",
+    "id": "22",
+    "title": "NBA TV",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/762/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/7792.png",
+    "id": "22",
+    "title": "PAC 12 Washington (US)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/7792/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/253.png",
+    "id": "22",
+    "title": "NBA League Pass 1",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/198961/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/7791.png",
+    "id": "22",
+    "title": "PAC 12 Oregon (US)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/7791/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/35140.png",
+    "id": "22",
+    "title": "PAC 12 Network (US)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/35140/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/7793.png",
+    "id": "22",
+    "title": "PAC 12 Mountain (US)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/7793/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/7790.png",
+    "id": "22",
+    "title": "PAC 12 Los Angeles (US)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/7790/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/297033.png",
+    "id": "22",
+    "title": "PAC 12 Insider (US)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/297033/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/7796.png",
+    "id": "22",
+    "title": "PAC 12 Bay Area (US)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/7796/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/7789.png",
+    "id": "22",
+    "title": "PAC 12 Arizona (US)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/7789/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/355.png",
+    "id": "22",
+    "title": "Polsat Sport News (PL)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/355/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/3240.png",
+    "id": "22",
+    "title": "TVP Sport (PL)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/3240/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/1692.png",
+    "id": "22",
+    "title": "TVP 2 (PL)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/1692/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/1693.png",
+    "id": "22",
+    "title": "TVP 1 (PL)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/1693/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/242.png",
+    "id": "22",
+    "title": "Motortrend",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/272264/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/10515.png",
+    "id": "22",
+    "title": "TVP (PL)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/10515/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/31784.png",
+    "id": "22",
+    "title": "TUDN (MX)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/31784/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/769.png",
+    "id": "22",
+    "title": "TNT (US)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/769/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/239.png",
+    "id": "22",
+    "title": "Marquee Sports Network",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/298969/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/294455.png",
+    "id": "22",
+    "title": "Win Sports+ (CO)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/294455/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/8345.png",
+    "id": "22",
+    "title": "Win Sports (CO)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/8345/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/38603.png",
+    "id": "22",
+    "title": "ESPN 3 (MX)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/38603/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/298057.png",
+    "id": "22",
+    "title": "ESPN 2 (MX)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/298057/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/9070.png",
+    "id": "22",
+    "title": "ESPN (MX)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/9070/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/272121.png",
+    "id": "22",
+    "title": "ESPN 4 (NL)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/272121/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/272120.png",
+    "id": "22",
+    "title": "ESPN 3 (NL)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/272120/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/272119.png",
+    "id": "22",
+    "title": "ESPN 2 (NL)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/272119/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/267209.png",
+    "id": "22",
+    "title": "ESPN (NL)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/267209/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/9163.png",
+    "id": "22",
+    "title": "Gol TV (EC)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/9163/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/295674.png",
+    "id": "22",
+    "title": "TBS (US)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/295674/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/228.png",
+    "id": "22",
+    "title": "Golf Channel",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/5845/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/11636.png",
+    "id": "22",
+    "title": "SuperSport Variety 4 (ZA)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/11636/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/11635.png",
+    "id": "22",
+    "title": "SuperSport Variety 3 (ZA)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/11635/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/11634.png",
+    "id": "22",
+    "title": "SuperSport Variety 2 (ZA)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/11634/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/11633.png",
+    "id": "22",
+    "title": "SuperSport Variety 1 (ZA)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/11633/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/11643.png",
+    "id": "22",
+    "title": "SuperSport PSL (ZA)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/11643/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/11642.png",
+    "id": "22",
+    "title": "SuperSport Premier League (ZA)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/11642/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/38572.png",
+    "id": "22",
+    "title": "SuperSport Maximo 1 (ZA)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/38572/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/221.png",
+    "id": "22",
+    "title": "FX",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/758/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/38575.png",
+    "id": "22",
+    "title": "SuperSport Football (ZA)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/38575/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/281536.png",
+    "id": "22",
+    "title": "SuperSport Blitz (ZA)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/281536/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/219.png",
+    "id": "22",
+    "title": "Fuel TV",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/11712/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/194354.png",
+    "id": "22",
+    "title": "SuperSport Action (ZA)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/194354/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/218.png",
+    "id": "22",
+    "title": "Fubo Sports Network",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/147553/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/266775.png",
+    "id": "22",
+    "title": "TNT Sports 3 (CL)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/266775/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/217.png",
+    "id": "22",
+    "title": "FS2",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/757/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/279612.png",
+    "id": "22",
+    "title": "TNT Sports 2 (CL)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/279612/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/216.png",
+    "id": "22",
+    "title": "FS1",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/756/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/8959.png",
+    "id": "22",
+    "title": "TNT Sports (CL)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/8959/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/2314.png",
+    "id": "22",
+    "title": "Fox Soccer Plus (US)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/2314/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/214.png",
+    "id": "22",
+    "title": "Fox Soccer Plus",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2314/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/29666.png",
+    "id": "22",
+    "title": "Fox Network (US)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/29666/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/295543.png",
+    "id": "22",
+    "title": "Sky Sport Austria 6 (AT)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/295543/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/295542.png",
+    "id": "22",
+    "title": "Sky Sport Austria 5 (AT)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/295542/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/295541.png",
+    "id": "22",
+    "title": "Sky Sport Austria 4 (AT)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/295541/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/192374.png",
+    "id": "22",
+    "title": "Sky Sport Austria 3 (AT)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/192374/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/8784.png",
+    "id": "22",
+    "title": "SPORTV 3 (BR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/8784/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/208.png",
+    "id": "22",
+    "title": "ESPNU",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2311/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/8783.png",
+    "id": "22",
+    "title": "SPORTV 2 (BR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/8783/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/4015.png",
+    "id": "22",
+    "title": "SPORTV (BR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/4015/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/206.png",
+    "id": "22",
+    "title": "ESPN 3",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/14816/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/281487.png",
+    "id": "22",
+    "title": "SPORT TV 6 (PT)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/281487/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/205.png",
+    "id": "22",
+    "title": "ESPN 2",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/41918/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/1495.png",
+    "id": "22",
+    "title": "SPORT TV 5 (PT)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/1495/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/204.png",
+    "id": "22",
+    "title": "ESPN",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/747/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/1492.png",
+    "id": "22",
+    "title": "SPORT TV 4 (PT)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/1492/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/1489.png",
+    "id": "22",
+    "title": "SPORT TV 3 (PT)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/1489/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/1486.png",
+    "id": "22",
+    "title": "SPORT TV 2 (PT)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/1486/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/1483.png",
+    "id": "22",
+    "title": "SPORT TV 1 (PT)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/1483/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/1481.png",
+    "id": "22",
+    "title": "SPORT TV + (PT)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/1481/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/1480.png",
+    "id": "22",
+    "title": "Canal 11 (PT)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/1480/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/1515.png",
+    "id": "22",
+    "title": "ELEVEN SPORTS 6 (PT)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/1515/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/1512.png",
+    "id": "22",
+    "title": "ELEVEN SPORTS 5 (PT)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/1512/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/1509.png",
+    "id": "22",
+    "title": "ELEVEN SPORTS 4 (PT)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/1509/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/1506.png",
+    "id": "22",
+    "title": "ELEVEN SPORTS 3 (PT)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/1506/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/1503.png",
+    "id": "22",
+    "title": "ELEVEN SPORTS 2 (PT)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/1503/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/1499.png",
+    "id": "22",
+    "title": "ELEVEN SPORTS 1 (PT)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/1499/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/1418.png",
+    "id": "22",
+    "title": "RTP 3 (PT)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/1418/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/1406.png",
+    "id": "22",
+    "title": "RTP 2 (PT)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/1406/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/1404.png",
+    "id": "22",
+    "title": "RTP 1 (PT)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/1404/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/189.png",
+    "id": "22",
+    "title": "CNBC Europe",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/299352/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/2432.png",
+    "id": "22",
+    "title": "Sky Sport Bundesliga 10 (DE)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/2432/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/188.png",
+    "id": "22",
+    "title": "CNBC",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2295/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/10051.png",
+    "id": "22",
+    "title": "Sky Sport Bundesliga 9 (DE)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/10051/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/2434.png",
+    "id": "22",
+    "title": "Sky Sport Bundesliga 8 (DE)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/2434/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/2433.png",
+    "id": "22",
+    "title": "Sky Sport Bundesliga 7 (DE)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/2433/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/12638.png",
+    "id": "22",
+    "title": "Sky Sport Bundesliga 6 (DE)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/12638/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/184.png",
+    "id": "22",
+    "title": "CBS Sports Network",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/267357/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/2136.png",
+    "id": "22",
+    "title": "Sky Sport Bundesliga 5 (DE)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/2136/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/3513.png",
+    "id": "22",
+    "title": "Sky Sport Bundesliga 4 (DE)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/3513/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/2135.png",
+    "id": "22",
+    "title": "Sky Sport Bundesliga 3 (DE)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/2135/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/4493.png",
+    "id": "22",
+    "title": "Sky Sport Bundesliga 2 (DE)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/4493/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/298592.png",
+    "id": "22",
+    "title": "Sky Sport Bundesliga 1 (DE)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/298592/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/2431.png",
+    "id": "22",
+    "title": "Sky Sport Bundesliga (DE)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/2431/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/147342.png",
+    "id": "22",
+    "title": "Sky Sport 10 (DE)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/147342/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/147341.png",
+    "id": "22",
+    "title": "Sky Sport 9 (DE)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/147341/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/4489.png",
+    "id": "22",
+    "title": "Sky Sport 8 (DE)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/4489/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/2133.png",
+    "id": "22",
+    "title": "Sky Sport 7 (DE)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/2133/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/31445.png",
+    "id": "22",
+    "title": "Sky Sport 6 (DE)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/31445/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/13497.png",
+    "id": "22",
+    "title": "Sky Sport 5 (DE)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/13497/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/172.png",
+    "id": "22",
+    "title": "beIN Sports 8",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/151032/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/32708.png",
+    "id": "22",
+    "title": "Sky Sport 4 (DE)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/32708/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/171.png",
+    "id": "22",
+    "title": "beIN Sports 7",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/151028/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/72238.png",
+    "id": "22",
+    "title": "Sky Sport 3 (DE)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/72238/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/170.png",
+    "id": "22",
+    "title": "beIN Sports 6",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/151030/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/8215.png",
+    "id": "22",
+    "title": "Sky Sport 2 (DE)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/8215/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/169.png",
+    "id": "22",
+    "title": "beIN Sports 5",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/151026/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/202100.png",
+    "id": "22",
+    "title": "Sky Sport 1 (DE)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/202100/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/168.png",
+    "id": "22",
+    "title": "beIN Sports 4",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/151024/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/296763.png",
+    "id": "22",
+    "title": "Willow Xtra (US)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/296763/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/167.png",
+    "id": "22",
+    "title": "beIN Sports 2",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/151022/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/2372.png",
+    "id": "22",
+    "title": "Willow (US)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/2372/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/166.png",
+    "id": "22",
+    "title": "beIN Sports",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/284530/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/290476.png",
+    "id": "22",
+    "title": "ELEVEN SPORTS 3 (BE)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/290476/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/165.png",
+    "id": "22",
+    "title": "Bally Sports West",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/3367/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/82246.png",
+    "id": "22",
+    "title": "ELEVEN SPORTS 2 (BE)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/82246/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/36420.png",
+    "id": "22",
+    "title": "ELEVEN SPORTS 1 (BE)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/36420/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/280194.png",
+    "id": "22",
+    "title": "Fox Sports 507 (AU)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/280194/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/279033.png",
+    "id": "22",
+    "title": "Fox Sports 506 (AU)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/279033/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/144772.png",
+    "id": "22",
+    "title": "Fox Sports 505 (AU)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/144772/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/160.png",
+    "id": "22",
+    "title": "ACC Network",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/29664/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/280193.png",
+    "id": "22",
+    "title": "Fox Sports 504 (AU)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/280193/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/280192.png",
+    "id": "22",
+    "title": "Fox Sports 503 (AU)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/280192/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/81784.png",
+    "id": "22",
+    "title": "Fox Sports 502 (AU)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/81784/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/279034.png",
+    "id": "22",
+    "title": "Fox Sports 501 (AU)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/279034/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/35326.png",
+    "id": "22",
+    "title": "ESPN 2 (AU)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/35326/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/294449.png",
+    "id": "22",
+    "title": "ESPN (AU)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/294449/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/35340.png",
+    "id": "22",
+    "title": "beIN Sports 3 (AU)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/35340/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/35338.png",
+    "id": "22",
+    "title": "beIN Sports 2 (AU)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/35338/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/35347.png",
+    "id": "22",
+    "title": "beIN Sports 1 (AU)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/35347/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/291115.png",
+    "id": "22",
+    "title": "Nova Sports 6 (GR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/291115/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/45242.png",
+    "id": "22",
+    "title": "Nova Sports 5 (GR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/45242/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/279631.png",
+    "id": "22",
+    "title": "Nova Sports 4 (GR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/279631/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/12846.png",
+    "id": "22",
+    "title": "Nova Sports 3 (GR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/12846/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/12845.png",
+    "id": "22",
+    "title": "Nova sports 2 (GR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/12845/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/12844.png",
+    "id": "22",
+    "title": "Nova Sports 1 (GR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/12844/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/298888.png",
+    "id": "22",
+    "title": "Cytavision Sports 4 (GR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/298888/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/298885.png",
+    "id": "22",
+    "title": "Cytavision Sports 3 (GR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/298885/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/298886.png",
+    "id": "22",
+    "title": "Cytavision Sports 2 (GR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/298886/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/298887.png",
+    "id": "22",
+    "title": "Cytavision Sports 1 (GR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/298887/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/121356.png",
+    "id": "22",
+    "title": "Cosmote Sport 9 (GR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/121356/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/127.png",
+    "id": "22",
+    "title": "Cosmote Sport 8 (GR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/127/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/126.png",
+    "id": "22",
+    "title": "Cosmote Sport 7 (GR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/126/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/4272.png",
+    "id": "22",
+    "title": "Cosmote Sport 6 (GR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/4272/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/4271.png",
+    "id": "22",
+    "title": "Cosmote Sport 5 (GR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/4271/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/125.png",
+    "id": "22",
+    "title": "Cosmote Sport 4 (GR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/125/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/4269.png",
+    "id": "22",
+    "title": "Cosmote Sport 3 (GR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/4269/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/18.png",
+    "id": "22",
+    "title": "Cosmote Sport 2 (GR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/18/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/124.png",
+    "id": "22",
+    "title": "Cosmote Sport 1 (GR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/124/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/6088.png",
+    "id": "22",
+    "title": "beIN Sports Max 10 (FR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/6088/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/4371.png",
+    "id": "22",
+    "title": "beIN Sports Max 9 (FR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/4371/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/5329.png",
+    "id": "22",
+    "title": "Extreme Sports Channel (NL)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/5329/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/4370.png",
+    "id": "22",
+    "title": "beIN Sports Max 8 (FR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/4370/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/5331.png",
+    "id": "22",
+    "title": "EUROSPORT 2 (NL)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/5331/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/4369.png",
+    "id": "22",
+    "title": "beIN Sports Max 7 (FR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/4369/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/5074.png",
+    "id": "22",
+    "title": "EUROSPORT 1 (NL)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/5074/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/4368.png",
+    "id": "22",
+    "title": "beIN Sports Max 6 (FR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/4368/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/147456.png",
+    "id": "22",
+    "title": "Astera Sport (KU)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/147456/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/6083.png",
+    "id": "22",
+    "title": "beIN Sports Max 5 (FR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/6083/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/193376.png",
+    "id": "22",
+    "title": "Aso Sport (KU)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/193376/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/3599.png",
+    "id": "22",
+    "title": "beIN Sports Max 4 (FR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/3599/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/286778.png",
+    "id": "22",
+    "title": "Tivibu Spor 4 (TR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/286778/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/146.png",
+    "id": "22",
+    "title": "beIN Sports 3 (FR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/146/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/1749.png",
+    "id": "22",
+    "title": "Tivibu Spor 3 (TR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/1749/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/145.png",
+    "id": "22",
+    "title": "beIN Sports 2 (FR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/145/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/1748.png",
+    "id": "22",
+    "title": "Tivibu Spor 2 (TR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/1748/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/144.png",
+    "id": "22",
+    "title": "beIN Sports 1 (FR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/144/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/299705.png",
+    "id": "22",
+    "title": "Tivibu Spor 1 (TR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/299705/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/192010.png",
+    "id": "22",
+    "title": "Sky Sport Austria 2 (AT)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/192010/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/1746.png",
+    "id": "22",
+    "title": "Tivibu Spor (TR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/1746/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/2130.png",
+    "id": "22",
+    "title": "Sky Sport Austria 1 (AT)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/2130/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/69426.png",
+    "id": "22",
+    "title": "CANAL+ Sport (PL)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/69426/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/4219.png",
+    "id": "22",
+    "title": "DIGI Sport 4 (RO)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/4219/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/7448.png",
+    "id": "22",
+    "title": "beIN Sports Haber (TR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/7448/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/2243.png",
+    "id": "22",
+    "title": "DIGI Sport 3 (RO)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/2243/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/82262.png",
+    "id": "22",
+    "title": "EUROSPORT 2 (CH)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/82262/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/71459.png",
+    "id": "22",
+    "title": "DIGI Sport 2 (RO)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/71459/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/151719.png",
+    "id": "22",
+    "title": "EUROSPORT 1 (CH)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/151719/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/71457.png",
+    "id": "22",
+    "title": "DIGI Sport 1 (RO)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/71457/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/33171.png",
+    "id": "22",
+    "title": "Blue Zoom F (CH)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/33171/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/3509.png",
+    "id": "22",
+    "title": "Sportdigital Fussball (DE)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/3509/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/52435.png",
+    "id": "22",
+    "title": "Blue Zoom D (CH)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/52435/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/162138.png",
+    "id": "22",
+    "title": "Indosiar (ID)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/162138/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/6187.png",
+    "id": "22",
+    "title": "Blue Sport 2 (CH)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/6187/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/4568.png",
+    "id": "22",
+    "title": "TV 3+ (DK)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/4568/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/4580.png",
+    "id": "22",
+    "title": "TV 3 Sport (DK)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/4580/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/95709.png",
+    "id": "22",
+    "title": "Voo Sport World 3 (BE)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/95709/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/290265.png",
+    "id": "22",
+    "title": "TV 3 Plus (DK)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/290265/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/276476.png",
+    "id": "22",
+    "title": "Play Sports GOLF (BE)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/276476/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/10434.png",
+    "id": "22",
+    "title": "TV 3 Max (DK)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/10434/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/290525.png",
+    "id": "22",
+    "title": "Play Sports 4 (BE)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/290525/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/281264.png",
+    "id": "22",
+    "title": "TV 3 (DK)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/281264/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/276473.png",
+    "id": "22",
+    "title": "Play Sports 3 (BE)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/276473/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/298471.png",
+    "id": "22",
+    "title": "BT Sport 4 (UK)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/298471/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/47438.png",
+    "id": "22",
+    "title": "Play Sports 2 (BE)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/47438/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/774.png",
+    "id": "22",
+    "title": "TSN 5 (CA)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/774/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/290539.png",
+    "id": "22",
+    "title": "Play Sports 1 (BE)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/290539/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/773.png",
+    "id": "22",
+    "title": "TSN 4 (CA)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/773/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/280169.png",
+    "id": "22",
+    "title": "MySports 1 (CH)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/280169/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/772.png",
+    "id": "22",
+    "title": "TSN 3 (CA)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/772/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/15913.png",
+    "id": "22",
+    "title": "Ginx eSports (UK)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/15913/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/771.png",
+    "id": "22",
+    "title": "TSN 2 (CA)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/771/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/4723.png",
+    "id": "22",
+    "title": "Premier Sports 2 (UK)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/4723/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/770.png",
+    "id": "22",
+    "title": "TSN 1 (CA)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/770/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/1097.png",
+    "id": "22",
+    "title": "Premier Sports 1 (UK)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/1097/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/692.png",
+    "id": "22",
+    "title": "EUROSPORT 1 (UK)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/692/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/54012.png",
+    "id": "22",
+    "title": "Edge Sport (UK)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/54012/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/139.png",
+    "id": "22",
+    "title": "EUROSPORT 2 (GR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/139/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/355.png",
+    "id": "22",
+    "title": "AT\u0026T SportsNet",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/59945/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/138.png",
+    "id": "22",
+    "title": "EUROSPORT 1 (GR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/138/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/354.png",
+    "id": "22",
+    "title": "Bally Sports Ohio",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/296675/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/298628.png",
+    "id": "22",
+    "title": "Prima Sport 5 (RO)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/298628/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/353.png",
+    "id": "22",
+    "title": "Bally Sports San Diego",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/3361/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/297626.png",
+    "id": "22",
+    "title": "Prima Sport 4 (RO)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/297626/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/147300.png",
+    "id": "22",
+    "title": "Prima Sport 3 (RO)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/147300/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/147299.png",
+    "id": "22",
+    "title": "Prima Sport 2 (RO)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/147299/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/2229.png",
+    "id": "22",
+    "title": "Prima Sport 1 (RO)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/2229/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/4222.png",
+    "id": "22",
+    "title": "EUROSPORT 2 (RO)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/4222/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/4221.png",
+    "id": "22",
+    "title": "EUROSPORT 1 (RO)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/4221/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/347.png",
+    "id": "22",
+    "title": "Sky Sports Racing",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/163132/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/346.png",
+    "id": "22",
+    "title": "Sky Sports Premier League",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/263/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/345.png",
+    "id": "22",
+    "title": "Sky Sports News",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/260/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/344.png",
+    "id": "22",
+    "title": "Sky Sports Mix",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/261/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/343.png",
+    "id": "22",
+    "title": "Sky Sports Main Event",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/283053/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/342.png",
+    "id": "22",
+    "title": "Sky Sports Golf",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/264/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/341.png",
+    "id": "22",
+    "title": "Sky Sports Football",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/266/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/340.png",
+    "id": "22",
+    "title": "Sky Sports F1",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/265/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/339.png",
+    "id": "22",
+    "title": "Sky Sports Cricket",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/269/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/338.png",
+    "id": "22",
+    "title": "Sky Sports Arena",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/267/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/337.png",
+    "id": "22",
+    "title": "Sky Sports Action",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/268/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/334.png",
+    "id": "22",
+    "title": "NBC Sports Northwest",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/3373/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/333.png",
+    "id": "22",
+    "title": "NBC Sports Chicago Plus",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/12986/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/332.png",
+    "id": "22",
+    "title": "NBC Sports Chicago",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/8490/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/331.png",
+    "id": "22",
+    "title": "NBC Sports California",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/16116/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/330.png",
+    "id": "22",
+    "title": "NBC Sports Boston",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/35132/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/329.png",
+    "id": "22",
+    "title": "NBC Sports Bay Area",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/45785/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/319.png",
+    "id": "22",
+    "title": "FTF Sports",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/294679/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/317.png",
+    "id": "22",
+    "title": "FIGHT Sports",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/157606/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/316.png",
+    "id": "22",
+    "title": "FIGHT BOX",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/530/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/315.png",
+    "id": "22",
+    "title": "Eleven Sports",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/7765/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/314.png",
+    "id": "22",
+    "title": "SportsNet PPV",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/13240/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/307.png",
+    "id": "22",
+    "title": "World Poker Tour",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/286493/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/306.png",
+    "id": "22",
+    "title": "FIGHT Network",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/9235/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/305.png",
+    "id": "22",
+    "title": "Outside TV",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/6340/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/271.png",
+    "id": "22",
+    "title": "BT Sport 3 (UK)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/271/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/273.png",
+    "id": "22",
+    "title": "BT Sport 2 (UK)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/273/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/270.png",
+    "id": "22",
+    "title": "BT Sport 1 (UK)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/270/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/af41a4b21bb3e2640c78a1920cfcbc3b.png",
+    "id": "22",
+    "title": "Laliga Smartbank TV 3 (ES)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/297789/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/6bb4b0815b0533c1650564043be577cf.png",
+    "id": "22",
+    "title": "Laliga Smartbank TV 2 (ES)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/297790/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/190ef18f9475d1c7c8b0ecbf501922b9.png",
+    "id": "22",
+    "title": "Laliga Smartbank TV 1 (ES)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/297791/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/048d9f93b451ed954e1cec6ac3b03047.png",
+    "id": "22",
+    "title": "Laliga Smartbank TV (ES)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/297788/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/6cd74abcd933355b6ff91566aac4a34a.png",
+    "id": "22",
+    "title": "Canal 9 (DK)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/4555/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/3cb1e9dcf481b7ade7ba51854e2df6a0.png",
+    "id": "22",
+    "title": "FUTV (CR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/148817/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/6d4401976136d6fba13d2b9841f0d4e4.png",
+    "id": "22",
+    "title": "beIN Sports Max 2 (TR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/16878/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/42821804f2bf62b2f016db47c8c3ef6e.png",
+    "id": "22",
+    "title": "beIN Sports Max 1 (TR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/8224/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/b2a9fbc3b42ce38c0b6d0de49f14d1d4.png",
+    "id": "22",
+    "title": "beIN Sports 4 (TR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/7450/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/7418e56397da3db723b2f35d30f75e72.png",
+    "id": "22",
+    "title": "beIN Sports 3 (TR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/1739/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/087f4f8b676e78b531c49551bca1dd50.png",
+    "id": "22",
+    "title": "beIN Sports 2 (TR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/1737/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/286.png",
+    "id": "22",
+    "title": "Tennis Channel",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2275/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/705c8909b510729c54f3fd81eb5b3f72.png",
+    "id": "22",
+    "title": "beIN Sports 1 (TR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/1735/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/7f1abd499b4ec83ab6feb189c0f55972.png",
+    "id": "22",
+    "title": "6 eren (DK)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/4554/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/147661.png",
+    "id": "22",
+    "title": "ION TV (US)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/147661/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/4721.png",
+    "id": "22",
+    "title": "LFC TV (UK)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/4721/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/1102.png",
+    "id": "22",
+    "title": "MUTV (UK)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/1102/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/60971.png",
+    "id": "22",
+    "title": "Gol TV (LA)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/60971/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/296564.png",
+    "id": "22",
+    "title": "Arena Sport 1x2 (RS)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/296564/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/295314.png",
+    "id": "22",
+    "title": "Arena Sport 9 (RS)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/295314/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/295313.png",
+    "id": "22",
+    "title": "Arena Sport 8 (RS)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/295313/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/277.png",
+    "id": "22",
+    "title": "Stadium",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/29657/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/295312.png",
+    "id": "22",
+    "title": "Arena Sport 7 (RS)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/295312/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/36922.png",
+    "id": "22",
+    "title": "Arena Sport 6 (RS)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/36922/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/3464.png",
+    "id": "22",
+    "title": "Arena Sport 5 (RS)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/3464/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/274.png",
+    "id": "22",
+    "title": "SEC Network",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/6447/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/3465.png",
+    "id": "22",
+    "title": "Arena Sport 4 (RS)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/3465/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/3463.png",
+    "id": "22",
+    "title": "Arena Sport 3 (RS)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/3463/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/3462.png",
+    "id": "22",
+    "title": "Arena Sport 2 (RS)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/3462/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/147036.png",
+    "id": "22",
+    "title": "Polsat Sport Premium 6 (PL)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/147036/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/147035.png",
+    "id": "22",
+    "title": "Polsat Sport Premium 5 (PL)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/147035/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/147034.png",
+    "id": "22",
+    "title": "Polsat Sport Premium 4 (PL)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/147034/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/268.png",
+    "id": "22",
+    "title": "PAC 12 Network",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/35140/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/147031.png",
+    "id": "22",
+    "title": "Polsat Sport Premium 3 (PL)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/147031/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/29607.png",
+    "id": "22",
+    "title": "Polsat Sport Premium 2 (PL)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/29607/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/23199.png",
+    "id": "22",
+    "title": "Polsat Sport Premium 1 (PL)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/23199/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/353.png",
+    "id": "22",
+    "title": "Polsat Sport Extra (PL)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/353/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/291116.png",
+    "id": "22",
+    "title": "Nova sports Prime (GR)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/291116/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/47708.png",
+    "id": "22",
+    "title": "M4 Sport (HU)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/47708/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/262.png",
+    "id": "22",
+    "title": "NHL Network",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2348/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/9179.png",
+    "id": "22",
+    "title": "Diema Sport 3 (BG)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/9179/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/261.png",
+    "id": "22",
+    "title": "NFL RedZone",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2369/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/9180.png",
+    "id": "22",
+    "title": "Diema Sport 2 (BG)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/9180/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/260.png",
+    "id": "22",
+    "title": "NFL Network",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2367/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/9181.png",
+    "id": "22",
+    "title": "Diema Sport (BG)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/9181/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/57711.png",
+    "id": "22",
+    "title": "Arena Sport 5 (AL)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/57711/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/193744.png",
+    "id": "22",
+    "title": "Arena Sport 4 (AL)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/193744/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/171883.png",
+    "id": "22",
+    "title": "Arena Sport 2 (AL)",
+    "url": "https://livecdn-iptv002.rumsport.com/stream/171883/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/255.png",
+    "id": "21",
+    "title": "NBC New York WNBC TV",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/82291/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/252.png",
+    "id": "21",
+    "title": "National Geographic",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/77844/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/243.png",
+    "id": "21",
+    "title": "MSNBC",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/406/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/240.png",
+    "id": "21",
+    "title": "MLB Network",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2342/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/238.png",
+    "id": "21",
+    "title": "Magnolia Network",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/469/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/237.png",
+    "id": "21",
+    "title": "Logo",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/150607/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/235.png",
+    "id": "21",
+    "title": "Investigation Discovery",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/8557/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/232.png",
+    "id": "21",
+    "title": "HGTV",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2273/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/227.png",
+    "id": "21",
+    "title": "Game Show Network",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/466/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/226.png",
+    "id": "21",
+    "title": "Game+",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/13217/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/225.png",
+    "id": "21",
+    "title": "FYI",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/9234/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/220.png",
+    "id": "21",
+    "title": "Fuse",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/6361/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/215.png",
+    "id": "21",
+    "title": "Freeform",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2329/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/213.png",
+    "id": "21",
+    "title": "FOX News Now",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/294805/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/212.png",
+    "id": "21",
+    "title": "Fox News Channel",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/1611/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/211.png",
+    "id": "21",
+    "title": "Fox Business",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2316/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/210.png",
+    "id": "21",
+    "title": "Fox Buffalo New York WUTV TV",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/41030/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/209.png",
+    "id": "21",
+    "title": "Food Network",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2315/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/207.png",
+    "id": "21",
+    "title": "ESPN News",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2312/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/203.png",
+    "id": "21",
+    "title": "E!",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2306/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/199.png",
+    "id": "21",
+    "title": "Discovery Life Channel",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/201208/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/197.png",
+    "id": "21",
+    "title": "Discovery Science",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/166530/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/196.png",
+    "id": "21",
+    "title": "The Design Network",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/281955/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/195.png",
+    "id": "21",
+    "title": "Destination America",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2299/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/194.png",
+    "id": "21",
+    "title": "Curiosity Channel",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/187047/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/193.png",
+    "id": "21",
+    "title": "Cooking Channel",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/478/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/190.png",
+    "id": "21",
+    "title": "CNBC World",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/6431/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/664.png",
+    "id": "21",
+    "title": "Bloomberg HT (TR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/664/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/2585.png",
+    "id": "21",
+    "title": "BBC World News (UK)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/2585/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/278520.png",
+    "id": "21",
+    "title": "BBC Alba (UK)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/278520/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/186.png",
+    "id": "21",
+    "title": "Cheddar News",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/8606/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/295363.png",
+    "id": "21",
+    "title": "CBS News Minnesota (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/295363/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/185.png",
+    "id": "21",
+    "title": "CBS News New York",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/295364/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/295242.png",
+    "id": "21",
+    "title": "CBS News Los Angeles (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/295242/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/298952.png",
+    "id": "21",
+    "title": "CBS News Denver Bay Area (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/298952/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/183.png",
+    "id": "21",
+    "title": "CBS News",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2740/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/298951.png",
+    "id": "21",
+    "title": "CBS News Denver (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/298951/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/182.png",
+    "id": "21",
+    "title": "CBS Washington WUSA",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/8436/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/298949.png",
+    "id": "21",
+    "title": "CBS News Colorado (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/298949/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/181.png",
+    "id": "21",
+    "title": "Bravo",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2282/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/298950.png",
+    "id": "21",
+    "title": "CBS News Boston (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/298950/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/35036.png",
+    "id": "21",
+    "title": "CBS New York WCBS TV (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/35036/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/179.png",
+    "id": "21",
+    "title": "Bloomberg TV",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2280/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/298314.png",
+    "id": "21",
+    "title": "CBS Boise Idaho KBOI TV (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/298314/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/178.png",
+    "id": "21",
+    "title": "Bloomberg Quicktake",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/298941/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/298324.png",
+    "id": "21",
+    "title": "CBS Bloomington Indiana WTTV (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/298324/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/177.png",
+    "id": "21",
+    "title": "Big Ten Network",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2279/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/295780.png",
+    "id": "21",
+    "title": "CBS Birmingham Alabama WIAT TV (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/295780/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/150722.png",
+    "id": "21",
+    "title": "CBS Bay City Michigan WNEM TV (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/150722/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/298316.png",
+    "id": "21",
+    "title": "CBS Baton Rouge Louisiana WAFB TV (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/298316/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/281187.png",
+    "id": "21",
+    "title": "CBS Baltimore Maryland WJZ TV (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/281187/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/299116.png",
+    "id": "21",
+    "title": "CBS Austin Texas KEYE TV (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/299116/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/150646.png",
+    "id": "21",
+    "title": "CBS Augusta Georgia WRDW TV (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/150646/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/281186.png",
+    "id": "21",
+    "title": "CBS Atlanta Georgia WGCL TV (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/281186/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/150665.png",
+    "id": "21",
+    "title": "CBS Altoona Pennsylvania WTAJ TV (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/150665/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/14804.png",
+    "id": "21",
+    "title": "C SPAN (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/14804/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/166162.png",
+    "id": "21",
+    "title": "Bible Explorations TV (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/166162/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/15117.png",
+    "id": "21",
+    "title": "AXS TV (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/15117/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/150605.png",
+    "id": "21",
+    "title": "Aspire TV (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/150605/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/299376.png",
+    "id": "21",
+    "title": "AMG TV (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/299376/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/164.png",
+    "id": "21",
+    "title": "ANIMAL PLANET",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/6329/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/298971.png",
+    "id": "21",
+    "title": "AKC TV (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/298971/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/163.png",
+    "id": "21",
+    "title": "American Heroes Channel",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/6337/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/284042.png",
+    "id": "21",
+    "title": "Black News Channel (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/284042/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/162.png",
+    "id": "21",
+    "title": "AfricaNews (EN)",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/283863/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/298938.png",
+    "id": "21",
+    "title": "ABC Asheville North Carolina WLOS TV (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/298938/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/161.png",
+    "id": "21",
+    "title": "AccuWeather Network",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/298936/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/298978.png",
+    "id": "21",
+    "title": "ABC Albuquerque New Mexico KOAT TV (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/298978/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/295324.png",
+    "id": "21",
+    "title": "ABC 17 News KMIZ (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/295324/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/159.png",
+    "id": "21",
+    "title": "ABC News",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2734/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/0f498a8750cc0c2b7103027382b2929e.png",
+    "id": "21",
+    "title": "ABC Action News (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/297695/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/298581.png",
+    "id": "21",
+    "title": "ABC Albany New York WTEN TV (US)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/298581/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/282268.png",
+    "id": "21",
+    "title": "More Than Sports TV (DE)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/282268/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/2240.png",
+    "id": "21",
+    "title": "Digi Life (RO)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/2240/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/9badd8b99cb49be613a46e6a86704c22.png",
+    "id": "21",
+    "title": "Digi 4K (RO)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/90750/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/iptv/light/198003.png",
+    "id": "21",
+    "title": "BBC Earth (AR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/198003/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/d6cd07bef5bdc966380af7fa2fa6d4a7.png",
+    "id": "21",
+    "title": "BBC Arabic (AR)",
+    "url": "https://livecdn-iptv003.rumsport.com/stream/2924/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/357.png",
+    "id": "21",
+    "title": "MasterChef",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/285161/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/356.png",
+    "id": "21",
+    "title": "Dog TV",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/9699/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/352.png",
+    "id": "21",
+    "title": "NBC Hartford Connecticut WVIT TV",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/82294/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/351.png",
+    "id": "21",
+    "title": "CNN USA",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/480/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/350.png",
+    "id": "21",
+    "title": "CNN International",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/753/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/336.png",
+    "id": "21",
+    "title": "Sky One",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/1080/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/335.png",
+    "id": "21",
+    "title": "Sky News",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/1081/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/320.png",
+    "id": "21",
+    "title": "GoUSA TV",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/294678/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/313.png",
+    "id": "21",
+    "title": "Court TV",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/150727/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/312.png",
+    "id": "21",
+    "title": "Bounce TV",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/298313/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/311.png",
+    "id": "21",
+    "title": "Start TV",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/151056/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/309.png",
+    "id": "21",
+    "title": "FailArmy",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/286084/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/308.png",
+    "id": "21",
+    "title": "TYT Network",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/299117/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/304.png",
+    "id": "21",
+    "title": "euronews",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/169839/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/295.png",
+    "id": "21",
+    "title": "WeatherNation",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/24330/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/294.png",
+    "id": "21",
+    "title": "The Weather Channel",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2361/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/293.png",
+    "id": "21",
+    "title": "VH1",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2370/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/292.png",
+    "id": "21",
+    "title": "USA Today",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/282288/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/291.png",
+    "id": "21",
+    "title": "USA Network",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/3390/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/288.png",
+    "id": "21",
+    "title": "Travel Channel",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/1066/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/287.png",
+    "id": "21",
+    "title": "TLC",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/2362/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/273.png",
+    "id": "21",
+    "title": "Revry News",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/282295/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/272.png",
+    "id": "21",
+    "title": "Revry",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/281945/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/271.png",
+    "id": "21",
+    "title": "Pop TV",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/5570/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/270.png",
+    "id": "21",
+    "title": "People are Awesome",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/286484/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/269.png",
+    "id": "21",
+    "title": "Paramount Network",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/14839/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/267.png",
+    "id": "21",
+    "title": "Oxygen",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/6378/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/259.png",
+    "id": "21",
+    "title": "Newsnet",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/193458/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/258.png",
+    "id": "21",
+    "title": "NewsNation",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/6296/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/257.png",
+    "id": "21",
+    "title": "Newsmax TV",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/163737/index.m3u8"
+  },
+  {
+    "img": "https://img.bingsport.com/static/common/img/tv-channel/light/256.png",
+    "id": "21",
+    "title": "NBC News Now",
+    "url": "https://livecdn-iptv001.rumsport.com/stream/162677/index.m3u8"
+  }
+]
